@@ -130,4 +130,9 @@ h1, h2, h5 {
   background-color: #ff69b4;
   color: #1f2e1f;
   border-color: #ff69b4;
+
+}
+form button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
 }
